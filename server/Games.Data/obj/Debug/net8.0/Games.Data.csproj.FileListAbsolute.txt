@@ -1,0 +1,51 @@
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.deps.json
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.runtimeconfig.json
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Core.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Core.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.AssemblyReference.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfoInputs.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfo.cs
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.CoreCompileInputs.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.Up2Date
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\refint\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.genruntimeconfig.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Data\obj\Debug\net8.0\ref\Games.Data.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.deps.json
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.runtimeconfig.json
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Data.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Core.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\bin\Debug\net8.0\Games.Core.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.AssemblyReference.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfoInputs.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfo.cs
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.CoreCompileInputs.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.Up2Date
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\refint\Games.Data.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\Games.Data.genruntimeconfig.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Data\obj\Debug\net8.0\ref\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Data.deps.json
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Data.runtimeconfig.json
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Data.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Core.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\bin\Debug\net8.0\Games.Core.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.AssemblyReference.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfoInputs.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfo.cs
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.CoreCompileInputs.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.csproj.Up2Date
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\refint\Games.Data.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.genruntimeconfig.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\ref\Games.Data.dll

@@ -1,0 +1,45 @@
+E:\תרגילים\web api\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.deps.json
+E:\תרגילים\web api\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfoInputs.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfo.cs
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.CoreCompileInputs.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\refint\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\ref\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Core.dll
+E:\תרגילים\web api\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Core.pdb
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.AssemblyReference.cache
+E:\תרגילים\web api\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Se.E5068622.Up2Date
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.deps.json
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Service.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Core.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\bin\Debug\net8.0\Games.Core.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.AssemblyReference.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfoInputs.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfo.cs
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.CoreCompileInputs.cache
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Se.E5068622.Up2Date
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\refint\Games.Service.dll
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\Games.Service.pdb
+C:\Users\327531927\Desktop\פרויקט גמר\Games.Service\obj\Debug\net8.0\ref\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\bin\Debug\net8.0\Games.Service.deps.json
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\bin\Debug\net8.0\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\bin\Debug\net8.0\Games.Service.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\bin\Debug\net8.0\Games.Core.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\bin\Debug\net8.0\Games.Core.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.AssemblyReference.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfoInputs.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfo.cs
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.csproj.CoreCompileInputs.cache
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Se.E5068622.Up2Date
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\refint\Games.Service.dll
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.pdb
+E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\ref\Games.Service.dll
