@@ -4331,11 +4331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj",
       "projectName": "Games.Api",
-      "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj",
+      "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj",
       "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\obj\\",
+      "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4356,14 +4356,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj": {
-              "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj"
+            "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj"
             },
-            "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj": {
-              "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj"
+            "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj"
             },
-            "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj": {
-              "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj"
+            "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj"
             }
           }
         }

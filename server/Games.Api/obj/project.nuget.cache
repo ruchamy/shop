@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7FwFRjk830=",
+  "dgSpecHash": "UFSSO6+rUFw=",
   "success": true,
-  "projectFilePath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj",
+  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

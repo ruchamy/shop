@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pu0n3nhie/0=",
+  "dgSpecHash": "sxWzwCQxngw=",
   "success": true,
-  "projectFilePath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj",
+  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

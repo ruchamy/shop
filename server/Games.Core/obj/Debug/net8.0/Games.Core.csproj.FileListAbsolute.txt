@@ -34,3 +34,16 @@ E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של �
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Core\obj\Debug\net8.0\refint\Games.Core.dll
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Core\obj\Debug\net8.0\Games.Core.pdb
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Core\obj\Debug\net8.0\ref\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\bin\Debug\net8.0\Games.Core.deps.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\bin\Debug\net8.0\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\bin\Debug\net8.0\Games.Core.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.sourcelink.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\refint\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\Games.Core.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Core\obj\Debug\net8.0\ref\Games.Core.dll

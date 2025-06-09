@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Games.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12711a88eca489c7dc14c7d2d9ea264b219691ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Games.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Games.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -43,3 +43,19 @@ E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של �
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\refint\Games.Service.dll
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\Games.Service.pdb
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Service\obj\Debug\net8.0\ref\Games.Service.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\bin\Debug\net8.0\Games.Service.deps.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\bin\Debug\net8.0\Games.Service.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\bin\Debug\net8.0\Games.Service.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\bin\Debug\net8.0\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\bin\Debug\net8.0\Games.Core.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.sourcelink.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Se.E5068622.Up2Date
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\refint\Games.Service.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\Games.Service.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Service\obj\Debug\net8.0\ref\Games.Service.dll

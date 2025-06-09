@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hN5ah5rg50M=",
+  "dgSpecHash": "sN19BKLgdRM=",
   "success": true,
-  "projectFilePath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

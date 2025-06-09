@@ -49,3 +49,21 @@ E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של �
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.pdb
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\Games.Data.genruntimeconfig.cache
 E:\תרגילים\web api\פרויקט גמר מתאים להתחברות של אנגולר\Games.Data\obj\Debug\net8.0\ref\Games.Data.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Data.deps.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Data.runtimeconfig.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Data.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Data.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Core.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\bin\Debug\net8.0\Games.Core.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.sourcelink.json
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.csproj.Up2Date
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\refint\Games.Data.dll
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.pdb
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\Games.Data.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\פרויקט אנגולר\server\Games.Data\obj\Debug\net8.0\ref\Games.Data.dll

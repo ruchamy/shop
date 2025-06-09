@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\UnitTest.csproj": {}
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj": {
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj",
         "projectName": "Games.Api",
-        "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj",
+        "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj",
         "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-        "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\obj\\",
+        "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj"
               },
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj"
               },
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj": {
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj",
         "projectName": "Games.Core",
-        "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj",
+        "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj",
         "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-        "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\obj\\",
+        "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,14 +177,14 @@
         }
       }
     },
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj": {
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj",
         "projectName": "Games.Data",
-        "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\Games.Data.csproj",
+        "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\Games.Data.csproj",
         "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-        "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Data\\obj\\",
+        "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,8 +205,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj"
               }
             }
           }
@@ -258,14 +258,14 @@
         }
       }
     },
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj": {
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj",
         "projectName": "Games.Service",
-        "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\Games.Service.csproj",
+        "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\Games.Service.csproj",
         "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-        "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Service\\obj\\",
+        "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -286,8 +286,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Core\\Games.Core.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Core\\Games.Core.csproj"
               }
             }
           }
@@ -327,14 +327,14 @@
         }
       }
     },
-    "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\UnitTest.csproj": {
+    "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-        "outputPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -355,8 +355,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj": {
-                "projectPath": "E:\\תרגילים\\web api\\פרויקט גמר מתאים להתחברות של אנגולר\\Games.Api\\Games.Api.csproj"
+              "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\Desktop\\פרויקט אנגולר\\server\\Games.Api\\Games.Api.csproj"
               }
             }
           }
